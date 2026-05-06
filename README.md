@@ -15,7 +15,9 @@ A curated collection of **Hack The Box (HTB)** and **TryHackMe (THM)** machine w
 | [Search](./Search.pdf) | HTB | 🪟 Windows | Hard | Kerberoasting, Password Spraying, GMSA, PKCS#12 Certificates |
 | [Shoppy](./Shoppy.pdf) | HTB | 🐧 Linux | Easy | NoSQL Injection, Mattermost, Binary Reverse Engineering, Docker Privilege Escalation |
 | [Support](./Support.pdf) | HTB | 🪟 Windows | Easy | SMB Enumeration, .NET Reverse Engineering, LDAP, Resource-Based Constrained Delegation |
+| [Intelligence](./HTB_Intelligence.pdf) | HTB | 🪟 Windows | Medium | Active Directory, PDF Metadata, Scheduled Tasks, GMSA, Constrained Delegation |
 | [Ledger](./THM_Ledger.pdf) | THM | 🪟 Windows | Hard | AD CS Misconfiguration (ESC1), Certificate Templates, LDAP Enumeration |
+| [Rabbit Store](./THM_Rabbit_Store.pdf) | THM | 🐧 Linux | Medium | Web Exploitation, Mass Assignment, SSRF, SSTI, RabbitMQ Manipulation |
 | [K2 Base Camp](./K2/THM_K2__Base_Camp.pdf) | THM | 🐧 Linux | Hard | Web Enumeration, Blind XSS, WAF Bypass, SQL Injection, Post-Exploitation |
 | [K2 Middle Camp](./K2/THM_K2_Middle_Camp.pdf) | THM | 🐧 Linux/Windows | Hard | Intermediate Escalation, Information Gathering |
 | [K2 The Summit](./K2/THM_K2_The_Summit.pdf) | THM | 🪟 Windows | Hard | AD Enumeration, BloodHound, RBCD, Pass-the-Ticket, Domain Admin |
@@ -36,7 +38,9 @@ HTB-Machines-/
 ├── Search.pdf                 # HTB Search machine writeup
 ├── Shoppy.pdf                 # HTB Shoppy machine writeup
 ├── Support.pdf                # HTB Support machine writeup
-└── THM_Ledger.pdf             # THM Ledger machine writeup
+├── HTB_Intelligence.pdf       # HTB Intelligence machine writeup
+├── THM_Ledger.pdf             # THM Ledger machine writeup
+└── THM_Rabbit_Store.pdf       # THM Rabbit Store machine writeup
 ```
 
 ---
