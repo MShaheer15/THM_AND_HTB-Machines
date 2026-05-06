@@ -10,7 +10,10 @@ A curated collection of **Hack The Box (HTB)** and **TryHackMe (THM)** machine w
 
 | Machine | Platform | OS | Difficulty | Key Techniques |
 |---|---|---|---|---|
+| [Blackfield](./HTB_Blackfield.pdf) | HTB | 🪟 Windows | Hard | Active Directory, SMB Enumeration, SeBackupPrivilege, LSASS |
 | [Forest](./HTB_Forest.pdf) | HTB | 🪟 Windows | Easy | Active Directory, AS-REP Roasting, BloodHound, DCSync |
+| [Monteverde](./HTB_Monteverde.pdf) | HTB | 🪟 Windows | Medium | Active Directory, Azure AD Connect, SMB Null Session, LAPS |
+| [StreamIO](./HTB_StreamIO.pdf) | HTB | 🪟 Windows | Medium | Active Directory, MSSQL, Corelight, Bloodhound, LAPS |
 | [Remote](./Remote.pdf) | HTB | 🪟 Windows | Easy | NFS Enumeration, Umbraco CMS RCE, TeamViewer Exploitation |
 | [Sauna](./Sauna.pdf) | HTB | 🪟 Windows | Easy | AS-REP Roasting, Kerberos, AutoLogon Creds, DCSync |
 | [Search](./Search.pdf) | HTB | 🪟 Windows | Hard | Kerberoasting, Password Spraying, GMSA, PKCS#12 Certificates |
@@ -34,7 +37,10 @@ HTB-Machines-/
 │   ├── THM_K2__Base_Camp.pdf
 │   ├── THM_K2_Middle_Camp.pdf
 │   └── THM_K2_The_Summit.pdf
+├── HTB_Blackfield.pdf         # HTB Blackfield machine writeup
 ├── HTB_Forest.pdf             # HTB Forest machine writeup
+├── HTB_Monteverde.pdf         # HTB Monteverde machine writeup
+├── HTB_StreamIO.pdf           # HTB StreamIO machine writeup
 ├── Remote.pdf                 # HTB Remote machine writeup
 ├── Sauna.pdf                  # HTB Sauna machine writeup
 ├── Search.pdf                 # HTB Search machine writeup
